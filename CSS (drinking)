@@ -1,0 +1,39 @@
+body {
+  background-image: linear-gradient(to right, red,orange,yellow);
+}
+
+img {
+  border-radius: 25px;
+  float: right
+}
+
+h1 { 
+  font-family:cursive;
+  font-style: italic;
+  background-image: linear-gradient(to bottom ,blue, aqua, lightblue );   -webkit-background-clip: text;
+  color: transparent;
+}
+
+.paragraph1 {
+  font-family: monospace;
+  font-size: 18px;
+  color: white
+}
+
+li {
+  color: white;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.paragraph2 {
+  font-family: monospace;
+  font-size: 18px;
+  color: black;
+}
+
+.p1 {
+  text-decoration: underline;
+  float: right;
+}
+  
