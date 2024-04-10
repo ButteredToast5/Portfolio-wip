@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> How to Speedcubes</title >
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+ <h1> How to Speedcubes </h1>
+    
+ <h2> Introduction </h2>
+    
+    <p> Speed Cubing is a competitive sport where different kinds of twisty puzzles are attempted to be solved as fast as possible. Speed cubing puzzles in WCA (World Cube Association) competitions are the offical most commonly practiced ones. The current events recognized by the WCA for practice are 2x2, 3x3, 4x4, 5x5, 6x6, 7x7, Skewb, Square-1, Pryaminx, Megaminx, Rubiks Clock, and a bunch of events where these puzzles are solved onehanded or blindfolded. This all sounds overwelming, but all were going to talk about is how to solve a 3x3 (traditonal most common/original cube) </p>
+    
+  <h5> Modern Speedcube model by speedcube company Moyu</h5>
+    <img src="Moyu-GTS3M.jpg" width="200px" alt="Modern Competition Speedcube, Moyu GTS3M">
+    <p> By Brett Sayles on Pexels, Free to use, No attribution Required</p>
+    
+ <h5> Original Rubik's cube </h5>
+    <img src="rubiks-brand.jpg" width="250px" alt="Modern Rubiks Cube">
+    <p> 
+      Image by <a href="https://pixabay.com/users/hans-2/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5660">Hans Braxmeier</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5660">Pixabay</a> Pixabay License, No attribution required
+
+
+<H2> Before you start... </H2>
+      
+    <p> Here are some fundamentals that will help with your first solve.</p>
+    <ol>
+      <li> There are 6 centers which also represent a face, the centers color are on a standart color scheme are Red to Orange, Blue to green, and Yellow to white.</li>
+      
+      <li> The colors centers orientation won't change (for example if you were to face the blue center and do an outer turn you will still be facing the blue center</li>
+      
+      <li>Start with the cube orientation WHITE on BOTTOM and YELLOW on TOP</li>
+      
+      <li>ALWAYS keep white on bottom, don't change the          orientation.</li>
+      
+      <li>Basic Cube notation R = Right face L = Left Face U = up face F = Front Face. (all of these faces will be turned clockwise (to the right) as if you were facing that face)</li>
+      
+      <li> **Any letter with an apostrophe (') means prime, so you turn the layer counter clockwise(to the left) to as if you were facing the face.** </li>
+      
+      <li> There are 8 CORNER pieces have 3 colors and are located adjacent to an edge </li> 
+      
+      <li>There are 20 EDGE pieces have 2 colors and are in between 2 CORNERS</li>
+    </ol>
+    
+<h3> Step 1 -The Daisy/White Cross </h3> 
+    
+    <h4> This step is on your own without set algorithms </h4> 
+    
+    <p> 1.1 -You want to try and get all of the white EDGES to the top layer to form a "Daisy"</p>
+    
+    <h6> Which should look something like this</h6>
+    <img src="Daisy.jpg" width="170px" alt="White Edges form a Daisy">
+    <h5> Image by Juliet</h5>
+    
+    <p> 1.2 -Now look at the 4 white edges, as you can see they also have a secondary color. Next step, is to match the SECONDARY color with its corresponding center. Once you have matched it with the center flip the edge down by moving the face clockwise twice (F2) **Do this for all 4 white edges**</p>
+    
+    <h6> Which should look something like this</h6>
+    <caption> Figure 1 </caption>  
+    <img src="Figure_1_Cross_edge.jpg" width="175px" alt="Cross edge matching center"> 
+    
+    <caption> Figure 2 </caption> <img src="Figure_2_Cross_edge.jpg" width="170px" alt="Cross edge insert"> 
+    
+    <h5> So, now if you were to take a glimpse of the white side the white edge should be insterted in its home, with its secondary color matching the center. Like this...</h5> 
+    <img src="Cross-_Edge.jpg" width="170px" alt="Complete cross edge (1)"> 
+    <h5>Image were by Juliet </h5>
+    
+    <p> 1.3 -Repeat that until all 4 of the white edges are placed in their home spot</p> 
+  
+    <h5> Your end result should be all 4 white edges on the white side with each secondary color matched with the center. With the end result like this: </h5> 
+    <img src="Complete_Cross.jpg" width="170px" alt="Complete Cross">
+    <h5> Image by Juliet</h5>
+    <p> **You have now completed the white cross**, Remember now keep white face on the bottom.</p>
+    
+<h3> Step 2 -Complete The Bottom Face/Make a First Layer</h3>
+    
+    <h4> This step has 2 needed short Algorthims (sets of moves) </h4> 
+    <p> 2.1 -Look at the top layer for white corners</p>
+    <h5> For example this Orange-white-blue corner</h5>
+      <img src="White_Corner_Example.jpg" Width="170px" alt="Orange-Blue-White Corner">
+    <p> After you find the corner, look at the front color (For example in this case the Front Color is orange) </p>
+    <h5> Image by Juliet</h5>
+    
+    <p> 2.2 -Next, take the front color of the white corner and match it with its center</p> 
+    <h5> This is what it should look like when it is matched</h5> 
+    <img src="CornerToCenterMatch.jpg" width="170px" alt="Matching to the center">
+    <h5> Image by Juliet</h5>
+    
+    <p> 2.3 -Now, you want to insert the white corner into the bottom layer to do that do this set of moves. </p> 
+    R
+    <img src="R_whiteCorner.jpg" width="140px" alt="R"> 
+    U <img src="U_WhiteCorner.jpg" width="130px" alt="U"> 
+    R' <img src="R'_WhiteCorner.jpg" width="140px" alt="R'"> 
+    <h4> In the end, the corner should now be in the white bottom layer in its home spot. </h4>
+ Example: <img src="Corner_Insert.jpg" width="150px" alt="Inserted Corner">
+    <p> Continue this step for all 4 white corners.
+    **Note you will also need to insert some corners on the left for that do the same set of moves, but with the left face**</p>
+    
+    <h5> All 4 images by Juliet</h5>
+    
+    <h3> **Special Note** </h3>
+    <p> In some cases the white would be facing up instead of on the side. Like this:</p> 
+    <img src="WhiteCornerOnTop.jpg" width="170px" alt="White on Top of corner">
+    <h5> Image by creator of this site</h5>
+    <p> To fix this kind of "case" Put the white corner above an open slot, and do the following moves:</p>
+    R
+    <img src="WhiteOnTopR.jpg" width="150px" alt="R"> 
+    U,U (U2)
+    <img src="WhiteOnTopU2.jpg" width="130px" alt="U2"> 
+    R'
+    <img src="R'CornerCase.jpg" width="130px" alt="R'"> 
+    U'
+    <img src="U'CornerCase.jpg" width="140px" alt="U'"> 
+    <h5> All 4 images by Juliet</h5>
+    <p> The finished result after fixing the corner will look like this:</p>
+    <img src="FinishedCornerCase.jpg" width="150px" alt="Fixed Corner">
+    <h5> Image by creator of this site </h5>
+    <H4> After all the corners are inserted you should have a complete first layer, but also the bottom layer matches with each other.</H4>
+    <img src="CompleteFirstLayer.jpg" width="150px" alt="Finish First layer">
+    <h5> Image by Juliet</h5>
+    <p> Now you're making progress, first layer is done</p>
+    
+    <h3> Step 3 -The Second Layer Edges </h3>
+    <h4> Now that you have done the first layer, it is time to do the second layer. </h4> 
+    <p> 3.1 -Find an edge piece taht doesn't have yellow on them. Then Look at its top and front color.</p>
+    <img src="EdgePiece.jpg"width="150" alt="Edge">
+    <h5> Image by Juliet</h5>
+    <p> 3.2 -Now looking at the front color,match it up with the center.</p>
+    <img src="EdgePieceToCenter.jpg"width="150px" alt="EdgeMove">
+    <h5> Image by Juliet</h5>
+    <p>3.3 -Look at the top color, then look to the colors on left and right centers. Then if the top colors center is on the RIGHT do a U move if its on the LEFT do a U' move</p> 
+    <img src="EdgeMove.jpg" width="150px" alt="Edge moved">
+    <h5> Image by Juliet</h5>
+    <p> For instence, the example here is blue is on top, and the blue center is on the right side, so you do a U move </p>
+    
+    <p> 3.4 -Now to insert the edge, you have to take out the corner with this move set. </p>
+    R
+    <img src="CornerTakeOutR.jpg" width="140px" alt="R">
+    U
+    <img src="U_WhiteCorner.jpg" width="140px" alt="U">
+    R'
+    <img src="R'_WhiteCorner.jpg" width="140px" alt="R'">
+    U'
+    <img src="U'CornerCase.jpg" width="140px" alt="U'">
+    <h5> Images by Juliet</h5>
+    
+    <p> 3.5 -The Edge and corner should now be paired up ready to insert, this image shows what a corner-edge pair should look like before insert</p>
+    <img src="ConerEdgePair.jpg" width="170px" alt="Edge and Corner">
+    <h5> Image by Juliet</h5>
+    <p> As you see the 3 color corner looks like as if you were to insert just the corner, but this time you are inserting a corner AND and edge at the same time </p>
+    
+    <p> 3.6 -Now to insert the edge, you will treat this as if you were inserting a corner. By pairing up the front color and inserting with R U R' or L' U' L. In this step insert this corner with either...</p>
+    
+    L'
+    <img src="CorenrEdgeL'.jpg" width="155px" alt="L'">
+    U'
+    <img src="CornerEdgeU'.jpg" width="155px" alt="U'">
+    L
+    <img src="CornerEdgeL.jpg" width="155px" alt="L"> [OR]
+    
+    R
+    <img src="CornerTakeOutR.jpg" width="140px" alt="R">
+    U
+    <img src="U_WhiteCorner.jpg" width="140px" alt="U">
+    R'
+    <img src="R'_WhiteCorner.jpg" width="140px" alt="R'">
+    U'
+    <img src="U'CornerCase.jpg" width="140px" alt="U'">
+    <h5> Images by Juliet</h5>
+
+    <p> repeat that for all 4 edges, and you should have a complete second layer</p> 
+    <h5> After inserting all 4 of the edges your full second layer should look this.</h5> 
+    <img src="Complete2ndLayer.jpg" width="155px" alt="2nd Layer">
+    <h5> Image by Juliet</h5>
+    
+<h3> Step 4 -Yellow Cross/Full Yellow face </h3>
+    
+    <h4> The next step is to make a cross with all 4 of the yellow edges, and solve the yellow face</h4>
+    <img src="Oll.jpg" width="155px" alt="Yellow Face">
+    
+    <p> 4.1 -This step is a little more algorthim based, but also more straightforward. The next step now is from any angle with the yellow face on the top. Do this set of moves </p>
+    
+    F
+    <img src="OllF.jpg" width="130px" alt="F">
+    U
+    <img src="OllU.jpg" width="130px" height="130px"alt="U">
+    R
+    <img src="OllR.jpg" width="130px" height="130px" alt="R">
+    U'
+    <img src="OllU-.jpg" width="130px" height="130px" alt="U'">
+    R'
+    <img src="OllR-.jpg" width="130px" height="130px" alt="R'">
+    F'
+    <img src="OllF-.jpg" width="130px" height="130px" alt="F'">
+    <h5> All 7 images by Juliet</h5>
+    
+    <h4> Do this algorithm over and over until you get either an L case (explained below) or a full plus sign of some sort </h4>
+    This
+    <img src="LOll.jpg" width="140px" alt="L Case OLL"> 
+    or
+    <img src="Yellowcross.jpg" width="140px" height="130px" alt="Yellow Cross">
+    
+    <p> **Special Case** when you have this L case, I suggest putting it in the position as shown below. </p>
+     
+    <img src="LOll.jpg" width="140px" alt="L Case OLL">
+    <h5> Image by Juliet</h5>
+     
+    <p> At the same time with this L case you can see 2 edges only need to be flipped to be solved. </p>
+    <img src="2EdgeOLL.jpg" width="140px" alt="2 yellow edges need to be flipped">
+    <h5> Image by Juliet</h5>
+    
+    <p> With the L in that position do the previous algorithm (F U R U' R' F') one time and you should get the yellow cross</p>
+    <img src="Yellowcross.jpg" width="140px" height="130px" alt="yellow cross">
+    <h5> Image by Juliet</h5>
+    
+    <p> 4.2 -Now the you have solved the yellow edges by making a cross it is time to solve the corners. If you have any head lights (matching color corners) the place those on the left hand side like so.</p>
+    <img src="Headlights.jpg" width="140px" alt="Headlights">
+    <h5> Image by Juliet</h5>
+    
+    <p> 4.3 -Once you put the headlights on the left do this algorithm. </p>
+    <p> **Quick note if you dont have any head lights just do the algoritm until you do then do the algorithm again**</p>
+    R
+    <img src="YellowR.jpg" width="130px" alt="R">
+    U
+    <img src="YellowU.jpg" width="130px" height="130px" alt="U">
+    R'
+    <img src="YellowR'.jpg" width="130px" height="130px" alt="R'">
+    U
+    <img src="YellowU-.jpg" width="130px" alt="U">
+    R
+    <img src="YellowR'-.jpg" width="130px" height="130px" alt="R">
+    U,U (U2)
+    <img src="YellowU2.jpg" width="130px" height="130px" alt="U2">
+    R'
+    <img src="YellowR'--.jpg" width="130px" alt="R'">
+    <h5> All 7 Images by Juliet</h5>
+    
+    <p>  4.4 -Now keep repeat this algorithm as many times as you need (**remember to put headlights on left each time before you do the algorithm!**), which is until you get a fish with a corner like this:</p> 
+    <img src="FishPluscorner.jpg" width="140px" alt="Fish">
+    <h5> Image by Juliet</h5>
+    <p> Once you get the fish make the mouth(corner) face down towards you. Like the picture then do the algorithm one more time and you should have a complete yellow face </p>
+    <img src="CompleteYellow.jpg" width="140px" alt="Full Yelow Face">
+    <h5> Image by Juliet</h5>
+    
+<h3> Final Step -Orienting Corners and edges</h3>
+    
+    <p>** Before you go on to this next step and algorithm, make sure to put ANY headlights on you left hand side like so:</p>
+    <img src="PLLHeadlights.jpg" width="135px" alt="PLL headlights">
+    <h5> Image by Juliet</h5>
+    
+    <p> 5.1 -Now With healights on the left and you facing the front do the algorithm:</p>
+    
+    L'
+    <img src="L'PLL.jpg" width="130px" alt="L'">
+    U
+    <img src="PLLU-3.jpg" width="130px" alt="U">
+    R
+    <img src="PLLR--3.jpg" width="130px" alt="R">
+    U'
+    <img src="PLLU'.jpg" width="130px" alt="U'">
+    L
+    <img src="PLL-L.jpg" width="130px" alt="L">
+    U
+    <img src="PLL-U-2.jpg" width="130px" alt="U">
+    R'
+    <img src="PLLR'2.jpg" width="130px" alt="R'">
+    R
+    <img src="PLLRFish.jpg" width="130px" height="150px" alt="R">
+    U
+    <img src="PLLUFish.jpg" width="130px" alt="U">
+    R'
+    <img src="R-Fish.jpg" width="130px" alt="R'">
+    U
+    <img src="UFish2.jpg" width="130px" alt="U">
+    R
+    <img src="RFish2.2.jpg" width="130px" alt="R">
+    U,U (U2)
+    <img src="U2Fish.jpg" width="130px" alt="U2">
+    R'
+    <img src="AnotherR-Fish.jpg" width="130px" alt="R'">
+    <h5> Images by Juliet</h5>
+    
+    <p> 5.2 -You should now have matching corners, but if you don't then again put headlights on the left and do the algorthim 1 or a couple more times.</p>
+    
+    <h4> Once you finish the spamming the algorithm the corners should be oriented like this: </h4> 
+    <img src="uperm.jpg" width="140px" alt="Uperm">
+    and
+    <img src="uperm2.jpg" width="140px" height="150px" alt="Uperm2">
+    Or
+    this
+    <img src="Hperm1.jpg" width="140px" alt="Hperm">
+    and
+    <img src="Hperm2.jpg" width="130px" alt="Hperm2">
+    
+    <p> the main idea is that all the corners match their color center, but the edges don't we will sove the edges in the next few steps.</p>
+    
+<h3> Final Step -Part 2 </h3>
+    
+    <h4> Now that the corners are oriented it is time to orient the edges and solve the cube </h4>
+    
+    <p> As you can see there are 2 basic cases you can get on this step. One case will have all edges not matched. And another case will have 3 edges not matched, but 1 edge will match. For instance, this U Permuation and H Permutation: </p>
+    U Permuatation
+    <img src="uperm2.jpg" width="140px" height="150px" alt="Uperm2">
+    <img src="uperm.jpg" width="140px" alt="Uperm">
+    H Permutation
+    <img src="Hperm1.jpg" width="140px" alt="Hperm">
+    <img src="Hperm2.jpg" width="130px" alt="Hperm2">
+    
+    <p> 5.3 -Now if you have 3 unsolved edges and 1 solved edge (U permutation) put the full color bar in the back (the one where the corners match the edge). For 4 unsolved corners (H/Z Permutation) you don't need to do this. Once that is settled do the following algorithm: </p> 
+    
+    M2
+    <img src="M2.1.jpg" width="140px" alt="M2">
+    U'
+    <img src="UUUPErm.jpg" width="140px" alt="U'">
+    M
+    <img src="MUperm.jpg" width="140px" alt="M">
+    U2
+    <img src="U2Uperm.jpg" width="140px" alt="U2">
+    M'
+    <img src="M'Uperm.jpg" width="140px" alt="M'">
+    U'
+    <img src="U'Uperm.jpg" width="140px" alt="U'">
+    M2
+    <img src="M2.2.jpg" width="140px" alt="M2">
+    <h5> Images by Juliet</h5>
+         
+    <p> **You may have to repeat this algorithm a couple of times, but after that the cube should be solved!**</p>   
+  </body>
+</html>
