@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="JulietWang.css">
+    <a href="GraceReed.html">Back to Home</a>
+  </head>
+  <body>
+    
+    <h1> Side Effects of Underage Drinking </h1>
+    
+     <img src="kermit-1651325_1920.jpg" width="300px" alt="Drunk Kermit">
+    <p class=""> Image by <a href="https://pixabay.com/users/alexas_fotos-686414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1651325">Alexas_Fotos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1651325">Pixabay</a> </p>
+    <p class="paragraph1"> The side of effects of underage drinking can be costly to a persons health. Here is a list of the health side effects that are most common</p>
+    
+    <ul>
+      <li>Alcohol Poisoning</li>
+      <li>hangovers</li>
+      <li>Memory Problems</li>
+      <li>Liver Damage</li>
+      <li>Trouble thinking</li>
+      <li>depression</li>
+      <li> higher risk of diesease</li>
+      <li> Increased Chances of health problems</li>
+    </ul>
+    <hr>
+    <p class="paragraph2"> There are ,of course, more fatal after effects, but these are the most common. Alcohol takes in a way more stronger negative effect on those under the age of 21 because of children still growing. The effects of underage drinking usually cause some kind of cronic health problem that can lead to early death. </p>   
+    
+  </body>
+</html>
