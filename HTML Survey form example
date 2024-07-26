@@ -1,0 +1,55 @@
+<!Doctype HTML> <!--base-->
+  <html>
+    <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="styles.css">
+
+      <!--title-->
+      <h1 id="title">Club Interest Form</h1>
+
+    </head>
+
+      <body>
+        <p id="description">Fill out this form with the appropriate information and thanks for showing interest in our club!</p>
+        
+        <!--form and input types-->
+        <form id="survey-form">
+          
+          <label id="name-label">Name:</label>
+          <input id="name" type="text" required placeholder="Ex: Juliet Wang"/>
+
+          <label id="email-label">Email:</label>
+          <input id="email" type="email" required placeholder="Ex: abcd@gmail.com"/>
+
+          <label id="number-label">Phone Number:</label>
+          <input id="number" type="number" min="0" max="999999999999999" placeholder="Ex: 123-456-7890"/>
+
+          <!--multiselect-->
+          <label id="dropdown-label">Grade:</label>
+            <select id="dropdown">
+              <option>Select Grade Level</option>
+              <option>9th (Freshman)</option>
+              <option>10th (Sophomore)</option>
+              <option>11th (Junior)</option>
+              <option>12th (Senior)</option>
+            </select>
+
+          <!--button select-->
+          <label id="radio-label">Can you already solve the rubik's cube?</label>
+            <input name="radio-button" type="radio" value="Yes">Yes</input>
+            <input name="radio-button" type="radio" value="No">No</input>
+
+           <!--check select-->
+          <label id="check-label">What are you interested in learning/doing in the club?</label>
+            <input name="check" type="checkbox" value="Solving">Solving the Rubik's Cube</input>
+            <input name="check" type="checkbox" value="Socializing">Socializing</input>
+
+            <!--additional stuff-->
+            <textarea placeholder="Optional: add your own comments and suggestions!"></textarea>
+                <input id="submit" type="submit"/>
+
+            
+
+        </form>    
+      </body>
+  </html>
